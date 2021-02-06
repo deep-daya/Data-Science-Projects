@@ -1,4 +1,4 @@
-# Data100- Projects
+# Data Science Projects
 This repo covers 7 projects:
 1. Spam Ham Email Classification
 2. Analysing Donald Trump Tweets
